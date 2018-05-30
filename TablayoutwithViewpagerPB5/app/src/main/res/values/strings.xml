@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tablayout with Viewpager PB5</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_one_fragment">Tab One Fragment</string>
+    <string name="tab_two_fragment">Tab Two Fragment</string>
+    <string name="tab_three_fragment">Tab Three Fragment</string>
+</resources>
